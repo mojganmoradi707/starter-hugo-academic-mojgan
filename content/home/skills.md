@@ -19,15 +19,55 @@ feature:
   - description: 90%
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Autocad
+  - description: 90%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Lumion
+  - description: 90%
+    icon: palette
     icon_pack: fas
-    name: Photography
+    name: V-Ray for 3D Max
+  - description: 90%
+    icon: palette
+    icon_pack: fas
+    name: Autodes 3Ds Max
+  - description: 90%
+    icon: palette
+    icon_pack: fas
+    name: CorelDraw
+  - description: 90%
+    icon: palette
+    icon_pack: fas
+    name: Adob Photoshop
+  - description: 80%
+    icon: palette
+    icon_pack: fas
+    name: Sketchup
+  - description: 80%
+    icon: palette
+    icon_pack: fas
+    name: Revit
+  - description: 80%
+    icon: palette
+    icon_pack: fas
+    name: Corona Renderer
+  - description: 60%
+    icon: palette
+    icon_pack: fas
+    name: Grasshopper
+  - description: 90%
+    icon: palette
+    icon_pack: fas
+    name: Adobe InDesign
+  - description: 90%
+    icon: palette
+    icon_pack: fas
+    name: Illustrator
+  - description: 50%
+    icon: palette
+    icon_pack: fas
+    name: Energy Plus
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
