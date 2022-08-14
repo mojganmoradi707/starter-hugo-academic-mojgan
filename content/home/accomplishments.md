@@ -41,6 +41,14 @@ item:
     url: ''
   - certificate_url: https://mojganmoradi.com
     date_end: ''
+    date_start: '2015-01-01'
+    description: ''
+    organization: Natural Disasters Research Institute
+    organization_url: https://mojganmoradi.com
+    title: The top 10 percent in the bachelor's degree Natural Disasters Research Institute
+    url: ''
+  - certificate_url: https://mojganmoradi.com
+    date_end: ''
     date_start: '2012-01-01'
     description: ''
     organization: Institute of Applied Science Technology Jahad Daneshgahi 
