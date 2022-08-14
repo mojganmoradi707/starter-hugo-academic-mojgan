@@ -28,14 +28,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Architecture - MArch (Grade: 4.6/5)
+    - course: Master of Architecture
       institution: Islamic Azad University North Tehran Branch
       year: 2016
-    - course: Bachelor of Architecture - BArch (Grade: 4.29/5)
-      institution: Natural Disasters Research Institute (NDRI)
+    - course: Bachelor of Architecture
+      institution: Natural Disasters Research Institute
       year: 2013
-    - course: Associate of Architecture - AArch (Grade: 4.42/5)
-      institution: Associate of Architecture - AArch
+    - course: Associate of Architecture
+      institution: Associate of Architecture
       year: 2010
 
 # Social/Academic Networking
