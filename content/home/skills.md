@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
+    icon: palette
     icon_pack: fab
     name: Autocad
   - description: 90%
-    icon: chart-line
+    icon: brush
     icon_pack: fas
     name: Lumion
   - description: 90%
@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: V-Ray for 3D Max
   - description: 90%
-    icon: palette
+    icon: brush
     icon_pack: fas
     name: Autodes 3Ds Max
   - description: 90%
@@ -37,7 +37,7 @@ feature:
     icon_pack: fas
     name: CorelDraw
   - description: 90%
-    icon: palette
+    icon: brush
     icon_pack: fas
     name: Adob Photoshop
   - description: 80%
@@ -45,7 +45,7 @@ feature:
     icon_pack: fas
     name: Sketchup
   - description: 80%
-    icon: palette
+    icon: brush
     icon_pack: fas
     name: Revit
   - description: 80%
@@ -53,7 +53,7 @@ feature:
     icon_pack: fas
     name: Corona Renderer
   - description: 60%
-    icon: palette
+    icon: brush
     icon_pack: fas
     name: Grasshopper
   - description: 90%
@@ -61,7 +61,7 @@ feature:
     icon_pack: fas
     name: Adobe InDesign
   - description: 90%
-    icon: palette
+    icon: brush
     icon_pack: fas
     name: Illustrator
   - description: 50%
