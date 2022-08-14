@@ -35,7 +35,7 @@ education:
       institution: Natural Disasters Research Institute
       year: 2013
     - course: Associate of Architecture (Grade 4.42/5)
-      institution: Associate of Architecture
+      institution: Institute of Applied Science Technology Jahad Daneshgahi
       year: 2010
 
 # Social/Academic Networking

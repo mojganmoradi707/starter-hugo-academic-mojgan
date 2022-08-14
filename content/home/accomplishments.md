@@ -26,18 +26,26 @@ item:
   - certificate_url: https://mojganmoradi.com
     date_end: ''
     date_start: '2016-08-01'
-    description: 'National competition for the design of the entrance to the campus science and technology park and'
+    description: 'National competition for the design of the entrance to the campus science and technology park'
     organization: National competition
     organization_url: https://www.coursera.org
     title: Rank 7th on National competition
     url: ''
   - certificate_url: https://mojganmoradi.com
     date_end: ''
-    date_start: '2016-08-01'
-    description: 'National competition for the design of the entrance to the campus science and technology park and'
-    organization: National competition
-    organization_url: https://www.coursera.org
-    title: Rank 7th on National competition
+    date_start: '2018-01-01'
+    description: ''
+    organization: Islamic Azad University North Tehran Branch
+    organization_url: https://mojganmoradi.com
+    title: The top student in the master's degree of North Tehran Azad University
+    url: ''
+  - certificate_url: https://mojganmoradi.com
+    date_end: ''
+    date_start: '2012-01-01'
+    description: ''
+    organization: Institute of Applied Science Technology Jahad Daneshgahi 
+    organization_url: https://mojganmoradi.com
+    title: The top student in the Associate's degree Institute of Applied Science Technology Jahad Daneshgahi
     url: ''
 
 design:
