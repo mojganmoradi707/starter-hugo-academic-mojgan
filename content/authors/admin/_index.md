@@ -30,13 +30,13 @@ education:
   courses:
     - course: Master of Architecture (Grade 4.6/5)
       institution: Islamic Azad University North Tehran Branch
-      year: 2016
+      year: 2016 to 2018
     - course: Bachelor of Architecture (Grade 4.29/5)
       institution: Natural Disasters Research Institute (NDRI)
-      year: 2013
+      year: 2013 to 2015
     - course: Associate of Architecture (Grade 4.42/5)
       institution: Associate of Architecture
-      year: 2010
+      year: 2010 to 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
