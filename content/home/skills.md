@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 90%
     icon: palette
-    icon_pack: fab
+    icon_pack: fas
     name: Autocad
   - description: 90%
     icon: brush
