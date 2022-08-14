@@ -36,11 +36,11 @@ tags = ["widgets",
         "slide"
         ]
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+            "blog", "create courses", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Mojgan Moradi"
+  homepage = "https://mojganmoradi.com"
 
 # If porting an existing theme
 [original]
