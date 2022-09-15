@@ -68,4 +68,4 @@ Mojgan Moradi, a graduate of architectural engineering, who is currently working
 
 Proficient in relevant software and interested in team work. I believe that all spaces can be beautiful and functional if there are creative ideas behind them.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mojgan-moradi.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mojgan-moradi.pdf" "newtab" >}}resumé{{< /staticref >}}. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/mojgan-moradi.pdf" "newtab" >}}Portfolio{{< /staticref >}}.
