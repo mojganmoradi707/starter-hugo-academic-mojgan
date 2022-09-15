@@ -6,7 +6,7 @@ title: Mojgan Moradi
 superuser: true
 
 # Role/position/tagline
-role: Architecture engineer
+role: Architecture Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
