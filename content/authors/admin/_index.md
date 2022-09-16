@@ -35,7 +35,7 @@ education:
       institution: Natural Disasters Research Institute
       year: 2013
     - course: Associate of Architecture (Grade 4.42/5)
-      institution: Institute of Applied Science Technology Jahad Daneshgahi
+      institution: University of applied science, culture and art of Tehran municipality
       year: 2010
 
 # Social/Academic Networking

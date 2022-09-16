@@ -51,9 +51,9 @@ item:
     date_end: ''
     date_start: '2012-01-01'
     description: ''
-    organization: Institute of Applied Science Technology Jahad Daneshgahi 
+    organization: University of applied science, culture and art of Tehran municipality
     organization_url: https://mojganmoradi.com
-    title: The top student in the Associate's degree Institute of Applied Science Technology Jahad Daneshgahi
+    title: The top student in the Associate's degree University of applied science, culture and art of Tehran municipality
     url: ''
 
 design:
