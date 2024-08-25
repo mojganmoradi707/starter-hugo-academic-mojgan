@@ -10,24 +10,26 @@ role: Architecture Designer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Azad University, North Tehran Branch
-    url: https://ntb.iau.ir/
+  - name: Master of heritage conservation and site management - BTU
+    url: https://www.b-tu.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Competent Architecture Designer.
 
 # Interests to show in About widget
 interests:
-  - Zero Energy Design
+  - Interior Design
   - Exterior Design
   - Landscape Design
-  - Interior Design
   - Exhibition Design
   - 3D Max, V-Rail, Auto Cad, Lumion
 
 # Education to show in About widget
 education:
   courses:
+    - course: Master of heritage conservation and site management
+      institution: Brandenburgische Technische Universität Cottbus-Senftenberg
+      year: 2023
     - course: Master of Architecture (Grade 4.6/5)
       institution: Islamic Azad University North Tehran Branch
       year: 2016
@@ -64,7 +66,7 @@ email: ''
 highlight_name: true
 ---
 
-Mojgan Moradi, a graduate of architectural engineering, who is currently working in my own architectural office. Interested in sustainable architecture with more than 10 years of work experience in the fields of interior and exterior architecture, exhibition and furniture design, green roofs and green spaces, urban and neighborhood design, etc.
+With a background in architectural engineering and over 10 years of experience, specializing in exterior/interior design and proficient in software, I am dedicated to merging creativity and functionality to shape inspiring spaces and committed to pushing architectural boundaries for a sustainable future.
 
 Proficient in relevant software and interested in team work. I believe that all spaces can be beautiful and functional if there are creative ideas behind them.
 

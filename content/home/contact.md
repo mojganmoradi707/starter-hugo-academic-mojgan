@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mojganmoradi707@gmail.com
-  phone: +989120599588
+  phone: +4917656792887
 
 design:
   columns: '2'

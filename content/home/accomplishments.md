@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://mojganmoradi.com
+  - certificate_url: ''
     date_end: ''
     date_start: '2016-08-01'
     description: 'National competition for the design of the entrance to the campus science and technology park'
@@ -31,7 +31,7 @@ item:
     organization_url: https://www.coursera.org
     title: Rank 7th on National competition
     url: ''
-  - certificate_url: https://mojganmoradi.com
+  - certificate_url: ''
     date_end: ''
     date_start: '2018-01-01'
     description: ''
@@ -39,7 +39,7 @@ item:
     organization_url: https://mojganmoradi.com
     title: The top student in the master's degree of North Tehran Azad University
     url: ''
-  - certificate_url: https://mojganmoradi.com
+  - certificate_url: ''
     date_end: ''
     date_start: '2015-01-01'
     description: ''
@@ -47,7 +47,7 @@ item:
     organization_url: https://mojganmoradi.com
     title: The top 10 percent in the bachelor's degree Natural Disasters Research Institute
     url: ''
-  - certificate_url: https://mojganmoradi.com
+  - certificate_url: ''
     date_end: ''
     date_start: '2012-01-01'
     description: ''

@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Founder Ramko Office, Architecture Designer
+  - title: Architecture Designer (Founder Ramko Office)
     company: Ramko Office
     company_url: 'https://tarhpishe.com'
     company_logo: org-gc
@@ -80,7 +80,7 @@ experience:
         * Supervising the construction of the exhibition
         * Selection and purchase of materials
 
-  - title: Exhibition and interior designer
+  - title: Interior and exhibition designer
     company: Maxdesigngroup
     company_url: 'https://www.facebook.com/pages/category/Company/Max-Design-Group-115594888530631/'
     company_logo: org-gc
