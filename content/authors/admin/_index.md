@@ -22,7 +22,7 @@ interests:
   - Exterior Design
   - Landscape Design
   - Exhibition Design
-  - 3D Max, V-Rail, Auto Cad, Lumion
+  - 3D Max, V-Ray, Auto Cad, Lumion
 
 # Education to show in About widget
 education:
